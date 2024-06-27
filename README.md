@@ -52,6 +52,6 @@ Here are some ideas to get you started:
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jbtescudeiro16&langs_count=8&hide=jupyter%20notebook&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=0HenriqueFernandes0&langs_count=8&hide=jupyter%20notebook&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=jbtescudeiro16&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
