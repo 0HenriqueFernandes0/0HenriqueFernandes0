@@ -3,7 +3,7 @@
 - I'm a master's degree student in Software Engineering at Universidade do Minho.
 - I´m from Santo Tirso, Porto. 📍
 - The content of this GitHub is mainly University Projects.
-- mailbox: How to reach me:
+- :mailbox: How to reach me:
 <!--
 **0HenriqueFernandes0/0HenriqueFernandes0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
