@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi there! I'm Henrique Fernandes👋
 
+- I'm a master's degree student in Software Engineering at Universidade do Minho.
+- I´m from Santo Tirso, Porto. 📍
+- The content of this GitHub is mainly University Projects.
+- mailbox: How to reach me:
 <!--
 **0HenriqueFernandes0/0HenriqueFernandes0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +20,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">  
+<a href="mailto:henriquerfernandes@hotmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 <a href="https://www.linkedin.com/in/henrique-fernandes-8415a6266/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"</a>
 </div> 
  
